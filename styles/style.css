@@ -1,0 +1,246 @@
+header {
+  background-image: url("../images/crop_image.jpg");
+  background-size: cover;
+  width: 928px;
+  height: 192px;
+  margin: 0 0 ;
+  border-radius: 15px 15px 0 0;
+}
+
+.Artboard {
+  width: 928px;
+  height: 560px;
+  padding: 0 0 24px;
+}
+
+.content {
+  background-color: #27292f;
+  margin: 0;
+  height: 368px;
+  border-radius: 0 0 15px 15px;
+  display: flex;
+}
+
+.logo {
+  width: 120px;
+  height: 120px;
+  margin: 144px 16px 16px;
+  border-radius: 76px;
+  border: solid 3px #27292f;
+  background-image: url("../images/logo.jpg");
+  background-size: cover;
+  top: -10px;
+  display: block;
+  position: absolute;
+}
+
+.logo img {
+  width: 80%;
+}
+
+.left-content {
+  padding-top: 80px;
+}
+
+.pdf-btn {
+  width: 96px;
+  height: 40px;
+  margin: 0px 28px 48px;
+  padding: 2px 8px 2px 0px;
+  border-radius: 20px;
+  background-color: #27292f;
+  border: solid 1px #ffffff;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.MoleculesContentNavigationButton-ContentIcon-and-text {
+  width: 59px;
+  height: 19px;
+  object-fit: contain;
+}
+
+.Company-Name-Copy {
+  width: 352px;
+  height: 40px;
+  margin: 8px 120px 6px 16px;
+  font-family: NunitoSans;
+  font-size: 24px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+
+.contact {
+  display: flex;
+  align-items: baseline;
+}
+
+.MoleculesIcons16pxProfilMapLocalisation {
+  width: 16px;
+  height: 16px;
+  margin: 8px 8px 16px 16px;
+  padding: 0 3px;
+}
+
+.Localisation-Name-Copy {
+  width: 56px;
+  height: 16px;
+  margin: 8px 24px 16px 8px;
+  font-family: OpenSans;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+}
+
+.External-Website {
+  width: 16px;
+  height: 15px;
+  object-fit: contain;
+}
+
+.head-right {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.Website-Name-Copy {
+  width: 115px;
+  height: 19px;
+  margin: 6px 21px 15px 8px;
+  font-family: OpenSans;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.info-dot {
+  width: 45px;
+  height: 25px;
+  object-fit: contain;
+}
+
+.reseaux img {
+  margin: 0 0.2em;
+}
+
+.reseaux a {
+  text-decoration: none;
+}
+
+.description-txt {
+  width: 650px;
+  height: auto;
+  margin: 5px 81px 8px 16px;
+  font-family: OpenSans;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+}
+
+.MoleculesContentTag-Left-BIgger {
+  width: 187px;
+  height: 32px;
+  margin: 8px 77px 4px 16px;
+  object-fit: contain;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #006dff;
+  font-size: 16px;
+}
+
+.MoleculesContentTag-Left {
+  width: 70px;
+  height: 24px;
+  margin: 8px 8px 24px 16px;
+  object-fit: contain;
+  background-color: #ffffff;
+  color: #006dff;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.MoleculesContentTag-Left-bis {
+  width: 35px;
+  height: 24px;
+  margin: 8px 8px 24px 16px;
+  object-fit: contain;
+  background-color: #ffffff;
+  color: #006dff;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.MoleculesButtonsLargeBorder {
+  width: 98px;
+  height: 40px;
+  margin: 0px 10px 0px 120px;
+  object-fit: contain;
+  border-radius: 20px;
+  border: solid 1px #ffffff;
+  background-color: #27292f;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+}
+
+.MoleculesButtonsLargeIdle {
+  width: 156px;
+  height: 40px;
+  margin: 0px 8px 0px 10px;
+  object-fit: contain;
+  letter-spacing: 1.25px;
+  font-size: 14px;
+  border-radius: 20px;
+  color: #006dff;
+  border: solid 1px #ffffff;
+  background-color: #ffffff;
+  text-transform: uppercase;
+}
+
+.info {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+
+.last-btn {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  height: auto;
+}
+
+.collaboration a {
+  width: 283px;
+  height: 22px;
+  font-family: OpenSans;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+}
+
+.arrow {
+  width: 8px;
+  height: 8px;
+  margin-left: 5px;
+}
